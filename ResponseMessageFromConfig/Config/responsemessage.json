@@ -1,0 +1,8 @@
+{
+  "ResponseMessage": {
+    "Values": {
+      "Success": "Successful.",
+      "NoData": "No Record Found!"
+    }
+  }
+}

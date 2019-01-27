@@ -1,0 +1,11 @@
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\bin\Debug\netcoreapp2.0\ResponseMessageFromConfig.deps.json
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\bin\Debug\netcoreapp2.0\ResponseMessageFromConfig.runtimeconfig.json
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\bin\Debug\netcoreapp2.0\ResponseMessageFromConfig.runtimeconfig.dev.json
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\bin\Debug\netcoreapp2.0\ResponseMessageFromConfig.dll
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\bin\Debug\netcoreapp2.0\ResponseMessageFromConfig.pdb
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.csprojAssemblyReference.cache
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.csproj.CoreCompileInputs.cache
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.AssemblyInfoInputs.cache
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.AssemblyInfo.cs
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.dll
+E:\Akki\POC\Final\ResponseMessageFromConfig\ResponseMessageFromConfig\obj\Debug\netcoreapp2.0\ResponseMessageFromConfig.pdb
